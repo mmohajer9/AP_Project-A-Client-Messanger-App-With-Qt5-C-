@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App_Data/Icons/Icon.png</file>
+        <file>App_Data/Images/MainWindowBackground.jpg</file>
+        <file>App_Data/Icons/Staff-Login.jpg</file>
+        <file>App_Data/Images/texture_140_by_sirius_sdz-d2btip9.jpg</file>
+        <file>App_Data/Images/rain_texture1_by_koko_stock-d63l05s.jpg</file>
+        <file>App_Data/Images/IUT_LOGO.jpg</file>
+        <file>App_Data/Images/IUTlogo.png</file>
+        <file>App_Data/Images/Concrete_Background.jpg</file>
+        <file>App_Data/Images/mac-wallpaper-664.jpg</file>
+        <file>App_Data/Images/mystic-messenger-background.jpg</file>
+        <file>App_Data/Images/clicked.png</file>
+        <file>App_Data/Images/released.png</file>
+        <file>App_Data/Images/clicked2.png</file>
+        <file>App_Data/Images/released2.png</file>
+        <file>App_Data/Images/MamadGram GiF LOGO.gif</file>
+        <file>App_Data/Images/12342.png</file>
+        <file>App_Data/Images/Button-Member-Login normal.png</file>
+        <file>App_Data/Images/Button-Member-Login-clicked.png</file>
+        <file>App_Data/Images/Button-Member-Login-released.png</file>
+        <file>App_Data/Images/signup_normal.png</file>
+        <file>App_Data/Images/signup-clicked.png</file>
+        <file>App_Data/Images/lineedit-username.jpg</file>
+        <file>App_Data/Images/lineedit-username-toggle.jpg</file>
+        <file>App_Data/Images/password-lineedit-normal.jpg</file>
+        <file>App_Data/Images/lgin.png</file>
+        <file>App_Data/Images/lgin-pressed.png</file>
+        <file>App_Data/Images/MessageBox.png</file>
+        <file>App_Data/Images/linear-messagebox.jpg</file>
+        <file>App_Data/Images/1.png</file>
+        <file>App_Data/Images/2.png</file>
+        <file>App_Data/Images/signup-icon.png</file>
+        <file>App_Data/Images/signup-icon-clicked.png</file>
+        <file>App_Data/Images/close_red-clicked.png</file>
+        <file>App_Data/Images/close_red.png</file>
+        <file>App_Data/Images/547901-200.png</file>
+        <file>App_Data/Images/547901-200-clicked.png</file>
+        <file>App_Data/Images/send.clicked.png</file>
+        <file>App_Data/Images/send.png</file>
+        <file>App_Data/Images/add_group-512.png</file>
+        <file>App_Data/Images/add_group-512-clicked.png</file>
+        <file>App_Data/Images/join clicked.png</file>
+        <file>App_Data/Images/joingroup.png</file>
+        <file>App_Data/Images/user-group-chat-02-512.png</file>
+        <file>App_Data/Images/user-group-chat-02-512-clicked.png</file>
+        <file>App_Data/Images/satelite-radar-icon-vector.png</file>
+        <file>App_Data/Images/satelite-radar-icon-vector123213231.png</file>
+        <file>App_Data/Images/satelite-radar-icon-vector5143252532325.png</file>
+        <file>App_Data/Images/satelite-radar-icon-vector-clicked-join.png</file>
+    </qresource>
+</RCC>

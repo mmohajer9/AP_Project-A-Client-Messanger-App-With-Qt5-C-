@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/0a0cb856893f212599b3f006c9c9829e16ef7bfea1aca4c4f0ae4e8b39d7.webp</file>
+        <file>Images/1.png</file>
+        <file>Images/2.png</file>
+        <file>Images/12342.png</file>
+        <file>Images/547901-200.png</file>
+        <file>Images/547901-200-clicked.png</file>
+        <file>Images/551311-200.png</file>
+        <file>Images/60397514-chat-background.jpg</file>
+        <file>Images/ASPNET_UserControl_MessageBox.png</file>
+        <file>Images/bg-page.jpg</file>
+        <file>Images/Button-Member-Login normal.png</file>
+        <file>Images/Button-Member-Login-clicked.png</file>
+        <file>Images/Button-Member-Login-released.png</file>
+        <file>Images/clicked.png</file>
+        <file>Images/clicked2.png</file>
+        <file>Images/close_red.png</file>
+        <file>Images/close_red-clicked.png</file>
+        <file>Images/Concrete_Background.jpg</file>
+        <file>Images/e14fcbf3e4d8_37740.gif</file>
+        <file>Images/ezgif-1-4fcbf3e4d8.gif</file>
+        <file>Images/giphy.gif</file>
+        <file>Images/Hyperealistic_Gaben_Chat_Background.png</file>
+        <file>Images/images.jpg</file>
+        <file>Images/IUT_LOGO.jpg</file>
+        <file>Images/IUTlogo.png</file>
+        <file>Images/lgin.png</file>
+        <file>Images/lgin-pressed.png</file>
+        <file>Images/linear-messagebox.jpg</file>
+        <file>Images/lineedit-username.jpg</file>
+        <file>Images/lineedit-username-toggle.jpg</file>
+        <file>Images/mac-wallpaper-664.jpg</file>
+        <file>Images/MainWindowBackground - Copy.jpg</file>
+        <file>Images/MainWindowBackground.jpg</file>
+        <file>Images/MamadGram GiF LOGO.gif</file>
+        <file>Images/mamadgram_logo_38152.gif</file>
+        <file>Images/MessageBox.png</file>
+        <file>Images/mystic-messenger-background.jpg</file>
+        <file>Images/password-lineedit-normal.jpg</file>
+        <file>Images/PCI-Home-Page-background-22.jpg</file>
+        <file>Images/photo-1504333638930-c8787321eee0.jpg</file>
+        <file>Images/rain_texture1_by_koko_stock-d63l05s.jpg</file>
+        <file>Images/released.png</file>
+        <file>Images/released2.png</file>
+        <file>Images/ResetPW.png</file>
+        <file>Images/rew2.jpg</file>
+        <file>Images/rew3.jpg</file>
+        <file>Images/run-animation-4-8-final2.gif</file>
+        <file>Images/sig15-010.jpg</file>
+        <file>Images/signup_normal.png</file>
+        <file>Images/signup-clicked.png</file>
+        <file>Images/signup-icon.png</file>
+        <file>Images/signup-icon-clicked.png</file>
+        <file>Images/texture_140_by_sirius_sdz-d2btip9.jpg</file>
+        <file>Images/udgfdgl.jpg</file>
+        <file>Images/widget-button-file.png</file>
+        <file>Images/Yooz Gram.gif</file>
+        <file>Icons/Icon.png</file>
+        <file>Icons/Staff-Login.jpg</file>
+        <file>Icons/Staff-Login.png</file>
+    </qresource>
+</RCC>
